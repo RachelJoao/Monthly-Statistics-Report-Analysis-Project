@@ -1,0 +1,1 @@
+The goal of this project is to show the analysis of the statistics data from an Excel dataset to highlight, uncover key insights, and provide data-driven recommendations to improve business performance.
