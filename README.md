@@ -13,4 +13,4 @@ The goal of this project is to show the analysis of the statistics data from an 
 
 
 ## Let's connect!
-https://uk.linkedin.com/in/rachel-joao-06a867244?trk=people-guest_people_search-card 
+[Linkedin]https://uk.linkedin.com/in/rachel-joao-06a867244?trk=people-guest_people_search-card 
