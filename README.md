@@ -10,3 +10,7 @@ with the skills acquired, now building impactful projects in Excel, SQL, Python 
 
 ## My Projects
 The goal of this project is to show the analysis of the statistics data from an Excel dataset to highlight, uncover key insights, and provide data-driven recommendations to improve business performance.
+
+
+## Let's connect!
+https://uk.linkedin.com/in/rachel-joao-06a867244?trk=people-guest_people_search-card 
